@@ -1,0 +1,234 @@
+{
+  "cat_brands": [
+    {
+      "name": "Purrina",
+      "Breeds": [
+        {
+          "Breed": "Siamese",
+          "volumes": [
+            {
+              "type": "Kitten",
+              "size": "20oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "size": "32oz",
+              "price": 26.99
+            },
+              {
+              "type": "Kitten",
+              "size": "64oz",
+              "price": 34.99
+            },
+            {
+              "type": "Elite",
+              "size": "20oz",
+              "price": 24.99
+            },
+              {
+              "type": "Elite",
+              "size": "40oz",
+              "price": 47.99
+            },
+          ]
+        },
+        {
+           "Breed": "Bengal",
+           "volumes": [
+            {
+              "type": "Kitten",
+              "size": "20oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "size": "32oz",
+              "price": 26.99
+            },
+              {
+              "type": "Kitten",
+              "size": "64oz",
+              "price": 34.99
+            },
+            {
+              "type": "Elite",
+              "size": "20oz",
+              "price": 24.99
+            },
+              {
+              "type": "Elite",
+              "size": "40oz",
+              "price": 47.99
+            }
+          ]
+        },
+          {
+           "Breed": "Showhoe",
+           "volumes": [
+            {
+              "type": "Kitten",
+              "size": "20oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "size": "32oz",
+              "price": 26.99
+            },
+              {
+              "type": "Kitten",
+              "size": "64oz",
+              "price": 34.99
+            },
+            {
+              "type": "Elite",
+              "size": "20oz",
+              "price": 24.99
+            },
+              {
+              "type": "Elite",
+              "size": "40oz",
+              "price": 47.99
+            }
+          ]
+        },
+          {
+           "Breed": "Munchkin",
+           "volumes": [
+            {
+              "type": "Kitten",
+              "size": "20oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "size": "32oz",
+              "price": 26.99
+            },
+              {
+              "type": "Kitten",
+              "size": "64oz",
+              "price": 34.99
+            },
+            {
+              "type": "Elite",
+              "size": "20oz",
+              "price": 24.99
+            },
+              {
+              "type": "Elite",
+              "size": "40oz",
+              "price": 47.99
+            }
+          ]
+        },
+      ]
+    },
+    {
+      "name": "Meow Meal",
+      "Breeds": [
+        {
+          "Breed": "Manx",
+          "volumes": [
+            {
+              "type": "Kitten",
+              "size": "24oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "size": "48oz",
+              "price": 34.99
+            },
+              {
+              "type": "Adult",
+              "size": "28oz",
+              "price": 22.99
+            },
+            {
+              "type": "Adult",
+              "size": "56oz",
+              "price": 40.99
+            },
+          ]
+        },
+        {
+           "Breed": "Egyptian Mau",
+           "volumes": [
+            {
+              "type": "Kitten",
+              "size": "24oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "size": "48oz",
+              "price": 34.99
+            },
+              {
+              "type": "Adult",
+              "size": "28oz",
+              "price": 22.99
+            },
+            {
+              "type": "Adult",
+              "size": "56oz",
+              "price": 40.99
+            }
+          ]
+        },
+          {
+           "Breed": "Showhoe",
+           "volumes": [
+            {
+              "type": "Kitten",
+              "size": "24oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "size": "48oz",
+              "price": 34.99
+            },
+              {
+              "type": "Adult",
+              "size": "28oz",
+              "price": 22.99
+            },
+            {
+              "type": "Adult",
+              "size": "56oz",
+              "price": 40.99
+            }
+          ]
+        },
+          {
+           "Breed": "Munchkin",
+           "volumes": [
+            {
+              "type": "Kitten",
+              "size": "24oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "size": "48oz",
+              "price": 34.99
+            },
+              {
+              "type": "Adult",
+              "size": "28oz",
+              "price": 22.99
+            },
+            {
+              "type": "Adult",
+              "size": "56oz",
+              "price": 40.99
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
