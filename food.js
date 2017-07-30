@@ -13,7 +13,7 @@ xhttp.onreadystatechange = function() {
 //            var tp = result.types;
 //            console.log('here', tp);
             var foodtype = document.createElement("li");
-            foodtype.innerHTML = result.type;
+            foodtype.innerHTML = result[i].type;
             placeToGo.appendChild(foodtype);
         }
         
