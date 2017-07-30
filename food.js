@@ -7,13 +7,13 @@ xhttp.onreadystatechange = function() {
         var result = JSON.parse(xhttp.responseText).dog_brands;
 //        console.log('here', result);
         for (var i = 0; i < result.length; i++){
-            var brand = document.createElement("li");
+            var brand = document.createElement("h1");
             brand.innerHTML = result[i].name;
             placeToGo.appendChild(brand);
-            var tp = result.types;
-            console.log('here', tp);
+//            var tp = result.types;
+//            console.log('here', tp);
             var foodtype = document.createElement("li");
-            foodtype.innerHTML = tp[i].type;
+            foodtype.innerHTML = result.type;
             placeToGo.appendChild(foodtype);
         }
         
